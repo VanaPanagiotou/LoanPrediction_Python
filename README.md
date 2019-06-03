@@ -1,4 +1,4 @@
-# Loan Approval Prediction in R language
+# Loan Approval Prediction in Python language
 
 
 ## Table of Contents
